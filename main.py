@@ -3,5 +3,5 @@ def main():
     print("System started successfully!")
     print("AI team is ready.")
 
-if name == "main":
+if --name-- == "--main--":
     main()
