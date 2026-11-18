@@ -62,3 +62,4 @@ def collect_video():
 
 if __name__ == "__main__" :
     collect_video()
+else : pass
