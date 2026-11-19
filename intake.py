@@ -60,5 +60,5 @@ def collect_video():
     except Exception as error:
         print("Collection failed:", error)
 
-if name == "main" :
+if --name-- == "--main--" :
     collect_video()
