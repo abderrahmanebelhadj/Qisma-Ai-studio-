@@ -8,5 +8,5 @@ def main():
 
     print("Workflow finished.")
 
-if name == "main":
+if __name__ == "__main__":
     main()
